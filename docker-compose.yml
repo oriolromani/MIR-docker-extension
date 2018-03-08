@@ -1,0 +1,10 @@
+version: "2"
+services:
+  mir-tool-extension:
+    build: .
+    ports:
+     - "8888:8888"
+    volumes:
+     - .:/home/ds/notebooks
+    
+    
