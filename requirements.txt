@@ -1,0 +1,3 @@
+# add the name of a package on pypi here (with or without a version number) e.g.
+# requests
+# requests==2.0.1
